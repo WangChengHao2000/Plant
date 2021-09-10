@@ -1,0 +1,7 @@
+FlowerArt是Android Studio源文件
+
+Flant是Spring Boot后端源文件
+
+Flower是获取每月更新的百度植物识别的API的token
+
+plant.apk是安装包
