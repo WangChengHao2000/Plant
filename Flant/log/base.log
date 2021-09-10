@@ -1,0 +1,132 @@
+2021-07-22 01:25:00,996 INFO (StartupInfoLogger.java:55)- Starting FlowerApplication using Java 1.8.0_291 on DESKTOP-ULGGCMM with PID 18128 (C:\Users\Nemophilist\Desktop\Flant\target\classes started by Nemophilist in C:\Users\Nemophilist\Desktop\Flant)
+2021-07-22 01:25:00,999 DEBUG (StartupInfoLogger.java:56)- Running with Spring Boot v2.5.2, Spring v5.3.8
+2021-07-22 01:25:00,999 INFO (SpringApplication.java:659)- No active profile set, falling back to default profiles: default
+2021-07-22 01:25:02,394 INFO (StartupInfoLogger.java:61)- Started FlowerApplication in 1.781 seconds (JVM running for 2.537)
+2021-07-22 01:25:26,900 DEBUG (UserServiceImpl.java:21)- 我们是一个测试的
+2021-07-22 01:25:26,901 INFO (UserServiceImpl.java:22)- 测试测试9999999999999999999999
+2021-07-22 01:25:27,015 DEBUG (BaseJdbcLogger.java:137)- ==>  Preparing: INSERT INTO users(nickName, password) VALUES (?, ?)
+2021-07-22 01:25:27,040 DEBUG (BaseJdbcLogger.java:137)- ==> Parameters: null, 123(String)
+2021-07-22 01:25:27,043 DEBUG (BaseJdbcLogger.java:137)- <==    Updates: 1
+2021-07-22 01:26:03,214 INFO (StartupInfoLogger.java:55)- Starting FlowerApplication using Java 1.8.0_291 on DESKTOP-ULGGCMM with PID 19112 (C:\Users\Nemophilist\Desktop\Flant\target\classes started by Nemophilist in C:\Users\Nemophilist\Desktop\Flant)
+2021-07-22 01:26:03,216 DEBUG (StartupInfoLogger.java:56)- Running with Spring Boot v2.5.2, Spring v5.3.8
+2021-07-22 01:26:03,217 INFO (SpringApplication.java:659)- No active profile set, falling back to default profiles: default
+2021-07-22 01:26:04,450 INFO (StartupInfoLogger.java:61)- Started FlowerApplication in 1.588 seconds (JVM running for 2.271)
+2021-07-22 01:26:08,243 DEBUG (UserServiceImpl.java:21)- com.web.flower.bean.User@74b0c0ce
+2021-07-22 01:26:08,339 DEBUG (BaseJdbcLogger.java:137)- ==>  Preparing: INSERT INTO users(nickName, password) VALUES (?, ?)
+2021-07-22 01:26:08,355 DEBUG (BaseJdbcLogger.java:137)- ==> Parameters: null, 123(String)
+2021-07-22 01:26:08,367 DEBUG (BaseJdbcLogger.java:137)- <==    Updates: 1
+2021-07-22 01:27:40,171 INFO (StartupInfoLogger.java:55)- Starting FlowerApplication using Java 1.8.0_291 on DESKTOP-ULGGCMM with PID 15008 (C:\Users\Nemophilist\Desktop\Flant\target\classes started by Nemophilist in C:\Users\Nemophilist\Desktop\Flant)
+2021-07-22 01:27:40,174 DEBUG (StartupInfoLogger.java:56)- Running with Spring Boot v2.5.2, Spring v5.3.8
+2021-07-22 01:27:40,174 INFO (SpringApplication.java:659)- No active profile set, falling back to default profiles: default
+2021-07-22 01:27:41,416 INFO (StartupInfoLogger.java:61)- Started FlowerApplication in 1.57 seconds (JVM running for 2.301)
+2021-07-22 01:27:46,084 DEBUG (UserServiceImpl.java:21)- com.web.flower.bean.User@3362221
+2021-07-22 01:27:46,084 INFO (UserServiceImpl.java:22)- com.web.flower.bean.User@3362221
+2021-07-22 01:27:46,186 DEBUG (BaseJdbcLogger.java:137)- ==>  Preparing: INSERT INTO users(nickName, password) VALUES (?, ?)
+2021-07-22 01:27:46,203 DEBUG (BaseJdbcLogger.java:137)- ==> Parameters: null, 123(String)
+2021-07-22 01:27:46,211 DEBUG (BaseJdbcLogger.java:137)- <==    Updates: 1
+2021-07-22 01:29:05,319 DEBUG (UserServiceImpl.java:21)- com.web.flower.bean.User@542f8ca0
+2021-07-22 01:29:05,320 INFO (UserServiceImpl.java:22)- com.web.flower.bean.User@542f8ca0
+2021-07-22 01:29:05,321 DEBUG (BaseJdbcLogger.java:137)- ==>  Preparing: INSERT INTO users(nickName, password) VALUES (?, ?)
+2021-07-22 01:29:05,321 DEBUG (BaseJdbcLogger.java:137)- ==> Parameters: null, 123(String)
+2021-07-22 01:29:05,324 DEBUG (BaseJdbcLogger.java:137)- <==    Updates: 1
+2021-07-22 01:31:12,606 DEBUG (UserServiceImpl.java:21)- com.web.flower.bean.User@d3a9e22
+2021-07-22 01:31:12,607 INFO (UserServiceImpl.java:22)- com.web.flower.bean.User@d3a9e22
+2021-07-22 01:31:12,608 DEBUG (BaseJdbcLogger.java:137)- ==>  Preparing: INSERT INTO users(nickName, password) VALUES (?, ?)
+2021-07-22 01:31:12,608 DEBUG (BaseJdbcLogger.java:137)- ==> Parameters: null, 123(String)
+2021-07-22 01:31:12,611 DEBUG (BaseJdbcLogger.java:137)- <==    Updates: 1
+2021-07-22 01:34:50,228 DEBUG (UserServiceImpl.java:21)- com.web.flower.bean.User@3a9b04fa
+2021-07-22 01:34:50,228 INFO (UserServiceImpl.java:22)- com.web.flower.bean.User@3a9b04fa
+2021-07-22 01:34:50,229 DEBUG (BaseJdbcLogger.java:137)- ==>  Preparing: INSERT INTO users(nickName, password) VALUES (?, ?)
+2021-07-22 01:34:50,229 DEBUG (BaseJdbcLogger.java:137)- ==> Parameters: null, 123(String)
+2021-07-22 01:34:50,232 DEBUG (BaseJdbcLogger.java:137)- <==    Updates: 1
+2021-07-22 01:35:34,478 DEBUG (UserServiceImpl.java:21)- com.web.flower.bean.User@1bbe2b0a
+2021-07-22 01:35:34,479 INFO (UserServiceImpl.java:22)- com.web.flower.bean.User@1bbe2b0a
+2021-07-22 01:35:34,479 DEBUG (BaseJdbcLogger.java:137)- ==>  Preparing: INSERT INTO users(nickName, password) VALUES (?, ?)
+2021-07-22 01:35:34,480 DEBUG (BaseJdbcLogger.java:137)- ==> Parameters: null, 123(String)
+2021-07-22 01:35:34,491 DEBUG (BaseJdbcLogger.java:137)- <==    Updates: 1
+2021-07-22 01:35:53,462 DEBUG (UserServiceImpl.java:21)- com.web.flower.bean.User@21a2c898
+2021-07-22 01:35:53,462 INFO (UserServiceImpl.java:22)- com.web.flower.bean.User@21a2c898
+2021-07-22 01:35:53,463 DEBUG (BaseJdbcLogger.java:137)- ==>  Preparing: INSERT INTO users(nickName, password) VALUES (?, ?)
+2021-07-22 01:35:53,464 DEBUG (BaseJdbcLogger.java:137)- ==> Parameters: null, 12345678(String)
+2021-07-22 01:35:53,465 DEBUG (BaseJdbcLogger.java:137)- <==    Updates: 1
+2021-07-22 01:36:21,267 INFO (StartupInfoLogger.java:55)- Starting FlowerApplication using Java 1.8.0_291 on DESKTOP-ULGGCMM with PID 19228 (C:\Users\Nemophilist\Desktop\Flant\target\classes started by Nemophilist in C:\Users\Nemophilist\Desktop\Flant)
+2021-07-22 01:36:21,270 DEBUG (StartupInfoLogger.java:56)- Running with Spring Boot v2.5.2, Spring v5.3.8
+2021-07-22 01:36:21,271 INFO (SpringApplication.java:659)- No active profile set, falling back to default profiles: default
+2021-07-22 01:36:22,777 INFO (StartupInfoLogger.java:61)- Started FlowerApplication in 1.869 seconds (JVM running for 2.656)
+2021-07-22 01:36:25,419 DEBUG (UserServiceImpl.java:21)- com.web.flower.bean.User@15caceb
+2021-07-22 01:36:25,420 INFO (UserServiceImpl.java:22)- com.web.flower.bean.User@15caceb
+2021-07-22 01:36:25,530 DEBUG (BaseJdbcLogger.java:137)- ==>  Preparing: INSERT INTO users(nickName, password) VALUES (?, ?)
+2021-07-22 01:36:25,547 DEBUG (BaseJdbcLogger.java:137)- ==> Parameters: null, 12345678(String)
+2021-07-22 01:36:25,550 DEBUG (BaseJdbcLogger.java:137)- <==    Updates: 1
+2021-07-22 01:37:00,927 INFO (StartupInfoLogger.java:55)- Starting FlowerApplication using Java 1.8.0_291 on DESKTOP-ULGGCMM with PID 12768 (C:\Users\Nemophilist\Desktop\Flant\target\classes started by Nemophilist in C:\Users\Nemophilist\Desktop\Flant)
+2021-07-22 01:37:00,929 DEBUG (StartupInfoLogger.java:56)- Running with Spring Boot v2.5.2, Spring v5.3.8
+2021-07-22 01:37:00,930 INFO (SpringApplication.java:659)- No active profile set, falling back to default profiles: default
+2021-07-22 01:37:02,865 INFO (StartupInfoLogger.java:61)- Started FlowerApplication in 2.311 seconds (JVM running for 3.118)
+2021-07-22 01:37:05,131 DEBUG (UserController.java:24)- com.web.flower.bean.User@286c111
+2021-07-22 01:37:05,132 INFO (UserController.java:25)- com.web.flower.bean.User@286c111
+2021-07-22 01:37:05,257 DEBUG (BaseJdbcLogger.java:137)- ==>  Preparing: INSERT INTO users(nickName, password) VALUES (?, ?)
+2021-07-22 01:37:05,284 DEBUG (BaseJdbcLogger.java:137)- ==> Parameters: null, 12345678(String)
+2021-07-22 01:37:05,287 DEBUG (BaseJdbcLogger.java:137)- <==    Updates: 1
+2021-07-22 01:37:56,065 INFO (StartupInfoLogger.java:55)- Starting FlowerApplication using Java 1.8.0_291 on DESKTOP-ULGGCMM with PID 18536 (C:\Users\Nemophilist\Desktop\Flant\target\classes started by Nemophilist in C:\Users\Nemophilist\Desktop\Flant)
+2021-07-22 01:37:56,068 DEBUG (StartupInfoLogger.java:56)- Running with Spring Boot v2.5.2, Spring v5.3.8
+2021-07-22 01:37:56,069 INFO (SpringApplication.java:659)- No active profile set, falling back to default profiles: default
+2021-07-22 01:37:57,368 INFO (StartupInfoLogger.java:61)- Started FlowerApplication in 1.65 seconds (JVM running for 2.342)
+2021-07-22 01:38:01,882 DEBUG (UserController.java:24)- null
+2021-07-22 01:38:01,982 DEBUG (BaseJdbcLogger.java:137)- ==>  Preparing: INSERT INTO users(nickName, password) VALUES (?, ?)
+2021-07-22 01:38:02,000 DEBUG (BaseJdbcLogger.java:137)- ==> Parameters: null, 12345678(String)
+2021-07-22 01:38:02,002 DEBUG (BaseJdbcLogger.java:137)- <==    Updates: 1
+2021-07-22 01:43:36,792 DEBUG (UserController.java:24)- null
+2021-07-22 01:43:36,794 DEBUG (BaseJdbcLogger.java:137)- ==>  Preparing: INSERT INTO users(nickName, password) VALUES (?, ?)
+2021-07-22 01:43:36,795 DEBUG (BaseJdbcLogger.java:137)- ==> Parameters: null, 12345678(String)
+2021-07-22 01:43:36,806 DEBUG (BaseJdbcLogger.java:137)- <==    Updates: 1
+2021-07-22 01:44:02,076 INFO (StartupInfoLogger.java:55)- Starting FlowerApplication using Java 1.8.0_291 on DESKTOP-ULGGCMM with PID 15340 (C:\Users\Nemophilist\Desktop\Flant\target\classes started by Nemophilist in C:\Users\Nemophilist\Desktop\Flant)
+2021-07-22 01:44:02,080 DEBUG (StartupInfoLogger.java:56)- Running with Spring Boot v2.5.2, Spring v5.3.8
+2021-07-22 01:44:02,080 INFO (SpringApplication.java:659)- No active profile set, falling back to default profiles: default
+2021-07-22 01:44:04,001 INFO (StartupInfoLogger.java:61)- Started FlowerApplication in 2.548 seconds (JVM running for 3.896)
+2021-07-22 01:44:06,627 DEBUG (UserController.java:24)- ---------------------null
+2021-07-22 01:44:06,742 DEBUG (BaseJdbcLogger.java:137)- ==>  Preparing: INSERT INTO users(nickName, password) VALUES (?, ?)
+2021-07-22 01:44:06,760 DEBUG (BaseJdbcLogger.java:137)- ==> Parameters: null, 12345678(String)
+2021-07-22 01:44:06,762 DEBUG (BaseJdbcLogger.java:137)- <==    Updates: 1
+2021-07-22 02:08:56,705 DEBUG (UserController.java:24)- ---------------------null
+2021-07-22 02:08:56,765 DEBUG (BaseJdbcLogger.java:137)- ==>  Preparing: INSERT INTO users(nickName, password) VALUES (?, ?)
+2021-07-22 02:08:56,783 DEBUG (BaseJdbcLogger.java:137)- ==> Parameters: null, 12345678(String)
+2021-07-22 02:08:56,789 DEBUG (BaseJdbcLogger.java:137)- <==    Updates: 1
+2021-07-22 02:09:49,265 DEBUG (UserController.java:24)- ---------------------null
+2021-07-22 02:09:49,266 DEBUG (BaseJdbcLogger.java:137)- ==>  Preparing: INSERT INTO users(nickName, password) VALUES (?, ?)
+2021-07-22 02:09:49,273 DEBUG (BaseJdbcLogger.java:137)- ==> Parameters: null, 12345678(String)
+2021-07-22 02:09:49,276 DEBUG (BaseJdbcLogger.java:137)- <==    Updates: 1
+2021-07-22 02:15:16,301 DEBUG (UserController.java:24)- ---------------------null
+2021-07-22 02:15:16,305 DEBUG (BaseJdbcLogger.java:137)- ==>  Preparing: INSERT INTO users(nickName, password) VALUES (?, ?)
+2021-07-22 02:15:16,306 DEBUG (BaseJdbcLogger.java:137)- ==> Parameters: null, 12345678(String)
+2021-07-22 02:15:16,309 DEBUG (BaseJdbcLogger.java:137)- <==    Updates: 1
+2021-07-22 02:16:10,780 DEBUG (UserController.java:24)- ---------------------null
+2021-07-22 02:16:10,783 DEBUG (BaseJdbcLogger.java:137)- ==>  Preparing: INSERT INTO users(nickName, password) VALUES (?, ?)
+2021-07-22 02:16:10,784 DEBUG (BaseJdbcLogger.java:137)- ==> Parameters: null, 12345678(String)
+2021-07-22 02:16:10,786 DEBUG (BaseJdbcLogger.java:137)- <==    Updates: 1
+2021-07-22 02:16:11,213 DEBUG (UserController.java:24)- ---------------------null
+2021-07-22 02:16:11,214 DEBUG (BaseJdbcLogger.java:137)- ==>  Preparing: INSERT INTO users(nickName, password) VALUES (?, ?)
+2021-07-22 02:16:11,215 DEBUG (BaseJdbcLogger.java:137)- ==> Parameters: null, 12345678(String)
+2021-07-22 02:16:11,217 DEBUG (BaseJdbcLogger.java:137)- <==    Updates: 1
+2021-07-22 02:16:11,633 DEBUG (UserController.java:24)- ---------------------null
+2021-07-22 02:16:11,633 DEBUG (BaseJdbcLogger.java:137)- ==>  Preparing: INSERT INTO users(nickName, password) VALUES (?, ?)
+2021-07-22 02:16:11,633 DEBUG (BaseJdbcLogger.java:137)- ==> Parameters: null, 12345678(String)
+2021-07-22 02:16:11,635 DEBUG (BaseJdbcLogger.java:137)- <==    Updates: 1
+2021-07-22 02:16:21,347 DEBUG (UserController.java:24)- ---------------------null
+2021-07-22 02:16:21,348 DEBUG (BaseJdbcLogger.java:137)- ==>  Preparing: INSERT INTO users(nickName, password) VALUES (?, ?)
+2021-07-22 02:16:21,349 DEBUG (BaseJdbcLogger.java:137)- ==> Parameters: null, 12345678(String)
+2021-07-22 02:16:21,351 DEBUG (BaseJdbcLogger.java:137)- <==    Updates: 1
+2021-07-22 02:16:21,711 DEBUG (UserController.java:24)- ---------------------null
+2021-07-22 02:16:21,712 DEBUG (BaseJdbcLogger.java:137)- ==>  Preparing: INSERT INTO users(nickName, password) VALUES (?, ?)
+2021-07-22 02:16:21,712 DEBUG (BaseJdbcLogger.java:137)- ==> Parameters: null, 12345678(String)
+2021-07-22 02:16:21,714 DEBUG (BaseJdbcLogger.java:137)- <==    Updates: 1
+2021-07-22 02:16:22,149 DEBUG (UserController.java:24)- ---------------------null
+2021-07-22 02:16:22,149 DEBUG (BaseJdbcLogger.java:137)- ==>  Preparing: INSERT INTO users(nickName, password) VALUES (?, ?)
+2021-07-22 02:16:22,150 DEBUG (BaseJdbcLogger.java:137)- ==> Parameters: null, 12345678(String)
+2021-07-22 02:16:22,152 DEBUG (BaseJdbcLogger.java:137)- <==    Updates: 1
+2021-07-22 02:20:45,612 INFO (StartupInfoLogger.java:55)- Starting FlowerApplication using Java 1.8.0_291 on DESKTOP-ULGGCMM with PID 17584 (C:\Users\Nemophilist\Desktop\Flant\target\classes started by Nemophilist in C:\Users\Nemophilist\Desktop\Flant)
+2021-07-22 02:20:45,614 DEBUG (StartupInfoLogger.java:56)- Running with Spring Boot v2.5.2, Spring v5.3.8
+2021-07-22 02:20:45,615 INFO (SpringApplication.java:659)- No active profile set, falling back to default profiles: default
+2021-07-22 02:20:46,994 INFO (StartupInfoLogger.java:61)- Started FlowerApplication in 1.831 seconds (JVM running for 2.655)
+2021-07-22 02:20:52,260 DEBUG (BaseJdbcLogger.java:137)- ==>  Preparing: INSERT INTO users(nickName, password) VALUES (?, ?)
+2021-07-22 02:20:52,278 DEBUG (BaseJdbcLogger.java:137)- ==> Parameters: Yang(String), 12345678(String)
+2021-07-22 02:20:52,283 DEBUG (BaseJdbcLogger.java:137)- <==    Updates: 1

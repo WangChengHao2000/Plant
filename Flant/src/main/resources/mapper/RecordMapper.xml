@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<mapper namespace="com.web.flower.mapper.RecordMapper">
+
+    <insert id="insertRecord" parameterType="com.web.flower.bean.Record" useGeneratedKeys="true" keyProperty="recordID">
+        INSERT INTO records(account, plantName, time, address)
+        VALUES (#{account}, #{plantName}, #{time}, #{address})
+    </insert>
+
+    <select id="selectRecordByAccount" resultType="com.web.flower.bean.Record">
+        SELECT *
+        FROM records
+        WHERE account = #{account}
+        ORDER BY recordID DESC
+    </select>
+
+    <select id="selectAllRecord" resultType="com.web.flower.bean.Record">
+        SELECT *
+        FROM records
+        ORDER BY recordID DESC
+    </select>
+
+</mapper>

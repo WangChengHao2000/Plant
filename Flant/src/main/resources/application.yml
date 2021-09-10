@@ -1,0 +1,18 @@
+server:
+  port: 8802
+
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/plant?useUnicode=true&characterEncoding=UTF-8&useSSL=false
+    username: root
+    password: 123456
+    jpa:
+      open-in-view: false
+
+mybatis:
+  mapper-locations: classpath:mapper/*.xml
+  type-aliases-package: com.web.flower.bean
+
+jackson:
+  date-format: yyyy-MM-dd HH:mm:ss.SSS
